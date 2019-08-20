@@ -13,7 +13,6 @@ Tableau workbook : https://drive.google.com/open?id=1NTAjf7yqXjOi1X8GrqeMqKCKfxI
 
 Some Visualizations: 
 
-
 ![Alt text](https://github.com/sanjukladher/European-Hotel-Reviews-Visualization/blob/master/Scatter%20plot%2B%20box%20plot.png?raw=true "Optional Title")
 
 
