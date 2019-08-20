@@ -10,4 +10,4 @@ Data :https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/home
 
 Tableau workbook : https://drive.google.com/open?id=1NTAjf7yqXjOi1X8GrqeMqKCKfxI_uodb
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/sanjukladher/European-Hotel-Reviews-Visualization/blob/master/Map%20chart.png?raw=true "Optional Title")
